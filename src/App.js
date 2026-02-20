@@ -12,6 +12,7 @@ function App() {
       <Profile
         image={profileData.image}
         name={profileData.name}
+        from={profileData.from}
         residence={profileData.residence}
         birthday={profileData.birthday}
       ></Profile>
