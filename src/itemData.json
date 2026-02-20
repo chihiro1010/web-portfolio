@@ -6,18 +6,23 @@
       "title": "まめログ",
       "siteLink": "https://mamelog-84649.web.app",
       "githubLink": "https://github.com/chihiro1010/mamelog",
-      "tech": "TypeScript, Next.js, Firebase",
-      "lastUpdateDate": "2025/5/18"
+      "tech": "TypeScript, Next.js, Firebase"
     },
-
+    {
+      "image": "./images/mamelog.png",
+      "summary": "コーヒー豆管理メモ",
+      "title": "まめログ",
+      "siteLink": "https://mamelog-84649.web.app",
+      "githubLink": "https://github.com/chihiro1010/mamelog",
+      "tech": "TypeScript, Next.js, Firebase"
+    },
     {
       "image": "./images/coffrec.png",
       "summary": "コーヒードッリプログ",
       "title": "COFFREC",
       "siteLink": "https://coffrec.pages.dev",
       "githubLink": "https://github.com/chihiro1010/coffrec",
-      "tech": "TypeScript, React, Redux(Toolkit), Vite, TailwindCSS, IndexedDB(Dexie.js)",
-      "lastUpdateDate": "2024/2/26"
+      "tech": "TypeScript, React, Redux(Toolkit), Vite, TailwindCSS, IndexedDB(Dexie.js)"
     },
     {
       "image": "./images/memotube.png",
@@ -25,8 +30,7 @@
       "title": "MemoTube",
       "siteLink": "https://memotube.pages.dev",
       "githubLink": "https://github.com/chihiro1010/memotube",
-      "tech": "Nuxt.js(Vue.js), JypeScript, TailwindCSS",
-      "lastUpdateDate": "2023/12/20"
+      "tech": "Nuxt.js(Vue.js), JypeScript, TailwindCSS"
     },
     {
       "image": "./images/blaze.png",
@@ -34,17 +38,15 @@
       "title": "Blaze",
       "siteLink": "https://hamada-blaze.netlify.app",
       "githubLink": "https://github.com/chihiro1010/blaze",
-      "tech": "HTML,CSS",
-      "lastUpdateDate": "2023/11/25"
+      "tech": "HTML,CSS"
     },
     {
-      "image": "./images/goban.png",
-      "summary": "web碁盤",
-      "title": "goban",
-      "siteLink": "https://goban.vercel.app",
-      "githubLink": "https://github.com/chihiro1010/goban",
-      "tech": "Next.js(React.js), TypeScript, TailwindCSS",
-      "lastUpdateDate": "2023/12/10"
+      "image": "./images/minato.png",
+      "summary": "中小企業HP",
+      "title": "株式会社ミナト",
+      "siteLink": "https://yk-minato.netlify.app",
+      "githubLink": "https://github.com/chihiro1010/minato",
+      "tech": "Codex, TypeScript, React, Vite, TailwindCSS"
     },
     {
       "image": "./images/co_archive.png",
@@ -52,23 +54,13 @@
       "title": "CO archive",
       "siteLink": "https://co-archive.netlify.app",
       "githubLink": "https://github.com/chihiro1010/gatsby-my-portfolio",
-      "tech": "Gatsby.js",
-      "lastUpdateDate": "2020/3/30"
-    },
-    {
-      "image": "./images/co_web.png",
-      "summary": "webポートフォリオ(当サイト)",
-      "title": "CO web",
-      "siteLink": "https://co-web-portfolio.netlify.app",
-      "githubLink": "https://github.com/chihiro1010/co-web",
-      "tech": "React.js",
-      "lastUpdateDate": "2023/12/6"
+      "tech": "Gatsby.js"
     }
   ],
   "profile": {
     "image": "./images/profile.png",
     "name": "大場 千宏",
-    "residence": "島根県",
+    "residence": "埼玉県さいたま市南区",
     "birthday": "1997/10"
   }
 }

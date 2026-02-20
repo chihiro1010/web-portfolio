@@ -10,8 +10,6 @@ const Item = (props) => {
         <>
           <p className="subject">使用技術</p>
           <p className="contents">{props.tech}</p>
-          <p className="subject">最終更新日</p>
-          <p className="contents">{props.lastUpdateDate}</p>
           <object>
             <a
               href={props.githubLink}

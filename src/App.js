@@ -23,7 +23,6 @@ function App() {
           summary={item.summary}
           title={item.title}
           tech={item.tech}
-          lastUpdateDate={item.lastUpdateDate}
           githubLink={item.githubLink}
           className="items"
         ></Item>
