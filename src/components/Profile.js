@@ -10,6 +10,10 @@ const Profile = (props) => {
       <h3 className="title contents">{props.title}</h3>
       <div className="container">
         <p className="profile subject">出身 </p>
+        <p className="profile contents">　{props.from}</p>
+      </div>
+      <div className="container">
+        <p className="profile subject">在住 </p>
         <p className="profile contents">　{props.residence}</p>
       </div>
       <div className="container">
