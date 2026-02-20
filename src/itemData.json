@@ -9,14 +9,6 @@
       "tech": "TypeScript, Next.js, Firebase"
     },
     {
-      "image": "./images/mamelog.png",
-      "summary": "コーヒー豆管理メモ",
-      "title": "まめログ",
-      "siteLink": "https://mamelog-84649.web.app",
-      "githubLink": "https://github.com/chihiro1010/mamelog",
-      "tech": "TypeScript, Next.js, Firebase"
-    },
-    {
       "image": "./images/coffrec.png",
       "summary": "コーヒードッリプログ",
       "title": "COFFREC",
